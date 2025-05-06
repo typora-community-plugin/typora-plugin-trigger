@@ -1,0 +1,12 @@
+{
+  "id": "typora-community-plugin.trigger",
+  "name": "Trigger",
+  "description": "When the event occurs, commands are executed automatically.",
+  "author": "plylrnsdy",
+  "authorUrl": "https://github.com/plylrnsdy",
+  "repo": "typora-community-plugin/typora-plugin-trigger",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "minCoreVersion": "2.3.36",
+  "platforms": ["win32", "linux", "darwin"]
+}

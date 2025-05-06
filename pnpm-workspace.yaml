@@ -1,0 +1,2 @@
+overrides:
+  '@typora-community-plugin/core': link:../typora-community-plugin@v2/packages/core
